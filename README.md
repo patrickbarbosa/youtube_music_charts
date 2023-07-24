@@ -1,4 +1,6 @@
 # youtube_music_charts
  
-![schema](https://github.com/patrickbarbosa/youtube_music_charts/blob/eca066f0e7731379edc5861c6720c94693e1bc3b/schema.png)
+![schema](https://github.com/patrickbarbosa/youtube_music_charts/blob/af47ea209ab031bb8d2b99acc6eebc045f026fa6/schema.png)
+
+
 
